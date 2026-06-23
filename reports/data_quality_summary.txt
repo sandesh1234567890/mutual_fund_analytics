@@ -1,0 +1,8 @@
+Data Quality Summary
+
+1. All CSV files loaded successfully using Pandas.
+2. Shape, dtypes and head() checked for each dataset.
+3. Live NAV data fetched successfully from MFAPI.
+4. CSV files saved in data/raw folder.
+5. No corrupted files detected.
+6. Dataset structure verified.
